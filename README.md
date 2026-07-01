@@ -114,11 +114,6 @@ graph TD;
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaninduImanjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaninduImanjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
 <br>
 
 <div align="center">
@@ -143,14 +138,3 @@ graph TD;
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaninduImanjith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
-</div>
