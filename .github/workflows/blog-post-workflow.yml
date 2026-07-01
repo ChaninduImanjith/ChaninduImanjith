@@ -20,4 +20,4 @@ jobs:
       - name: Pull Medium Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@chanindu.imanjith
+          feed_list: "https://medium.com/feed/@chanindu.imanjith"
