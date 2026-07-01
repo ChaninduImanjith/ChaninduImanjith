@@ -1,0 +1,23 @@
+name: Latest Medium Blog Post Workflow
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull Medium Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@chanindu.imanjith
