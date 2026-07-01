@@ -39,7 +39,12 @@ I am a Software Engineering undergraduate and DevOps enthusiast based in Kalutar
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11" />
+  <!-- Dedicated Fedora Daily Driver Badge -->
+  <img src="https://img.shields.io/badge/Fedora_Linux-Daily_Driver-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" />
+  <br><br>
+  
+  <!-- Main Tech Stack Grid -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11" />
 </div>
 
 <br>
