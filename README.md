@@ -107,7 +107,11 @@ graph TD;
 ## 📝 Latest Technical Writings
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section automatically updates using GitHub Actions -->
+- [Why Linux is the Bedrock of DevOps: Core Kernel &amp; Shell Principles Every Engineer Must Master](https://medium.com/@chanindu.imanjith/why-linux-is-the-bedrock-of-devops-core-kernel-shell-principles-every-engineer-must-master-eac15daa02cd?source=rss-c34493618601------2)
+- [Stop Shipping Bloatware: A Deep Dive into Multi-Stage Docker Builds for Production Apps](https://medium.com/@chanindu.imanjith/stop-shipping-bloatware-a-deep-dive-into-multi-stage-docker-builds-for-production-apps-4e137d59459c?source=rss-c34493618601------2)
+- [Beyond the Wall of Text: Why Diagrams Are the Secret to Technical Clarity](https://medium.com/@chanindu.imanjith/beyond-the-wall-of-text-why-diagrams-are-the-secret-to-technical-clarity-0a9c5febfbe2?source=rss-c34493618601------2)
+- [Modeling the Digital Pandemic: How Better Math Can Stop Malware in Its Tracks](https://medium.com/@chanindu.imanjith/modeling-the-digital-pandemic-how-better-math-can-stop-malware-in-its-tracks-485f8b0e52cd?source=rss-c34493618601------2)
+- [CIA Triad in Cyber Security](https://medium.com/@chanindu.imanjith/cia-triad-in-cyber-security-3a010af941d1?source=rss-c34493618601------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
