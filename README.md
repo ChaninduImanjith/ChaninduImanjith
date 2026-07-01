@@ -101,3 +101,56 @@ graph TD;
     
     style C fill:#00C2FF,stroke:#333,stroke-width:2px;
     style F fill:#8A2BE2,stroke:#333,stroke-width:2px;
+
+---
+
+## 📝 Latest Technical Writings
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section automatically updates using GitHub Actions -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaninduImanjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaninduImanjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaninduImanjith&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will automatically be injected here if configured -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChaninduImanjith/ChaninduImanjith/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaninduImanjith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+</div>
