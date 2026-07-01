@@ -44,7 +44,7 @@ I am a Software Engineering undergraduate and DevOps enthusiast based in Kalutar
   <br><br>
   
   <!-- Main Tech Stack Grid -->
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,azure,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11" />
 </div>
 
 <br>
