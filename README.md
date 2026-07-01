@@ -125,13 +125,6 @@ graph TD;
 </div>
 
 ---
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!-- WakaTime stats will automatically be injected here if configured -->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🐍 Contribution Graph
