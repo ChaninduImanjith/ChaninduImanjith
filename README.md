@@ -89,23 +89,6 @@ Passionate about cloud-native infrastructure, identity management, and model ser
 
 ---
 
-## ⚙️ Core CI/CD & MLOps Architecture Workflow
-
-```mermaid
-graph TD;
-    A[Developer Push] -->|Git| B(GitHub Repository);
-    B -->|Webhook| C{Jenkins / GitHub Actions};
-    C -->|Build| D[Docker Image];
-    D -->|Push| E[Amazon ECR / DockerHub];
-    E -->|Deploy| F[Kubernetes Cluster / EKS];
-    C -->|Run Tests| G[SonarQube & JUnit];
-    F -->|Monitor| H[Prometheus & Grafana];
-    
-    style C fill:#00C2FF,stroke:#333,stroke-width:2px;
-    style F fill:#8A2BE2,stroke:#333,stroke-width:2px;
-```
----
-
 ## 📝 Latest Technical Writings
 
 <!-- BLOG-POST-LIST:START -->
