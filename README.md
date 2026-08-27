@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=250&section=header&text=Chanindu%20Imanjith&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;MLOps+Specialist;Open+Source+Contributor" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Platform+Engineer;DevOps+Engineer;Cloud+Infrastructure+Enthusiast;MLOps+Specialist;Open+Source+Contributor" alt="Typing Animation" />
 
 <br>
 
