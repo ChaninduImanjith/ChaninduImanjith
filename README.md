@@ -77,10 +77,11 @@ Passionate about cloud-native infrastructure, identity management, and model ser
 
 - 🚀 **[WSO2](https://github.com/wso2):** Actively contributing to the enterprise ecosystem with multiple impactful merged contributions:
   - Contributed a merged Pull Request to the WSO2 Identity Server platform documentation: **[wso2/docs-is#6202](https://github.com/wso2/docs-is/pull/6202)**.
+  - Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters: **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**.
   - Ported advanced AWS SQS custom endpoint and S3 path-style addressing (`forcePathStyle`) configuration references to main: **[wso2/docs-mi#2336](https://github.com/wso2/docs-mi/pull/2336)**.
   - Updated AWS SQS connector custom endpoint documentation for the 4.5.0 release: **[wso2/docs-mi#2335](https://github.com/wso2/docs-mi/pull/2335)**.
+- 🚢 **[OpenChoreo](https://github.com/openchoreo):** Contributing to `openchoreo/backstage-plugins` and related deployment tools, including a merged bug fix resolving an incorrect "Failed" status shown in the Deploy UI during normal namespace provisioning: **[openchoreo/backstage-plugins#749](https://github.com/openchoreo/backstage-plugins/pull/749)**.
 - 🤖 **[KServe](https://github.com/kserve):** Exploring and engaging with highly scalable machine learning model serving infrastructure.
-- 🚢 **[OpenChoreo](https://github.com/openchoreo):** Contributing to `openchoreo/openchoreo` and related deployment tools.
 - 📦 **Community Activity:** Actively collaborating across 30+ repositories with an activity footprint of **75% Commits** and **25% Pull Requests**.
 <p align="left">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C2FF?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
