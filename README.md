@@ -74,8 +74,9 @@ I am a Software Engineering undergraduate and DevOps enthusiast based in Kalutar
 
 Passionate about cloud-native infrastructure, identity management, and model serving platforms, I actively engage with enterprise-grade open-source ecosystems.
 
-- 🚀 **[WSO2](https://github.com/wso2):** Actively contributing to the enterprise ecosystem with **11 merged pull requests** to `wso2/docs-mi` and 1 to `wso2/docs-is`:
+- 🚀 **[WSO2](https://github.com/wso2):** Actively contributing to the enterprise ecosystem with **14 merged pull requests** to `wso2/docs-mi` and 1 to `wso2/docs-is`:
   - Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters: **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**.
+  - Ported RabbitMQ URL placeholder and blocking-mode message builder/formatter documentation across 3 product versions: **[4.4.0](https://github.com/wso2/docs-mi/pull/2349)**, **[4.3.0](https://github.com/wso2/docs-mi/pull/2350)**, **[4.2.0](https://github.com/wso2/docs-mi/pull/2351)**.
   - Ported network-related JDBC Message Store tuning tips across 5 product versions: **[main](https://github.com/wso2/docs-mi/pull/2439)**, **[4.6.0](https://github.com/wso2/docs-mi/pull/2437)**, **[4.4.0](https://github.com/wso2/docs-mi/pull/2440)**, **[4.3.0](https://github.com/wso2/docs-mi/pull/2441)**, **[4.2.0](https://github.com/wso2/docs-mi/pull/2442)**.
   - Fixed a broken WSO2 Integration Studio download link across 4 product versions: **[4.4.0](https://github.com/wso2/docs-mi/pull/2387)**, **[4.3.0](https://github.com/wso2/docs-mi/pull/2388)**, **[4.2.0](https://github.com/wso2/docs-mi/pull/2389)**.
   - Ported advanced AWS SQS custom endpoint and S3 path-style addressing (`forcePathStyle`) configuration references to main: **[wso2/docs-mi#2336](https://github.com/wso2/docs-mi/pull/2336)**.
@@ -87,7 +88,7 @@ Passionate about cloud-native infrastructure, identity management, and model ser
 
 <p align="left">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C2FF?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Merged%20PRs-13-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-16-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 ---
 
