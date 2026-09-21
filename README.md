@@ -41,7 +41,7 @@
 │ HOST       : fedora-workstation (x86_64)                                      │
 │ UPTIME     : 100% (High Availability)                                         │
 │ ROLE       : Software Engineering Undergraduate & DevOps Enthusiast           │
-│ LOCATION   : Kalutara, Sri Lanka                                              │
+│ LOCATION   : Colombo, Sri Lanka                                              │
 │ STATUS     : Ready for Deployment // Access: ROOT                             │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
