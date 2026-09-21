@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" alt="Chanindu Imanjith" width="100%"/>
+<img src="./assets/header-banner.svg" alt="Chanindu Imanjith - Terminal HUD" width="100%"/>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/ChaninduImanjith">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=36&lines=root%40chanindu%3A~%23+initiating+kernel_v6.12...;chanindu%40fedora%3A~%24+devops_engineer+--stack%3Dcloud%2Cci_cd%2Cmlops;chanindu%40fedora%3A~%24+deploying+high_availability_kubernetes_clusters...;chanindu%40fedora%3A~%24+16_merged_PRs+--target%3Denterprise_upstream;chanindu%40fedora%3A~%24+terraform+apply+-auto-approve+--state%3Dproduction" alt="Terminal Typing Animation" />
+  </a>
+</p>
+
+<img src="./assets/system-status-bar.svg" alt="System Status Telemetry" width="100%"/>
+
+<br>
 
 [![STATUS](https://img.shields.io/badge/SYS_STATUS-ONLINE-000000?style=flat-square&logo=gnubash&logoColor=00FF41&labelColor=0d1117)](#)
 <a href="mailto:chanindu.imanjith@gmail.com">
@@ -21,7 +29,9 @@
 
 </div>
 
-<br>
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
 
 ### <code>root@chanindu:~# cat /etc/motd</code>
 
@@ -55,7 +65,9 @@ models into production environments through efficient MLOps practices.
 | `🐧 Daily Driver` | `Fedora Linux (terminal power user)` |
 | `🌱 Currently Exploring` | `Advanced Kubernetes, Terraform, AWS Solutions Architecture, MLOps infrastructure` |
 
-<br>
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
 
 ### <code>chanindu@fedora:~$ ./inspect_toolset.sh --active-modules</code>
 
@@ -87,7 +99,9 @@ models into production environments through efficient MLOps practices.
 
 </details>
 
-<br>
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
 
 ### <code>root@fedora:~# journalctl -u oss-contributions.service --no-pager</code>
 
@@ -119,7 +133,9 @@ models into production environments through efficient MLOps practices.
 
 </div>
 
-<br>
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
 
 ### <code>chanindu@fedora:~$ curl -s https://medium.com/feed/@chanindu.imanjith | parse-feed</code>
 
@@ -131,21 +147,21 @@ models into production environments through efficient MLOps practices.
 - [CIA Triad in Cyber Security](https://medium.com/@chanindu.imanjith/cia-triad-in-cyber-security-3a010af941d1?source=rss-c34493618601------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
 
 ### <code>chanindu@fedora:~$ gh telemetry --render-matrix</code>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChaninduImanjith&show_icons=true&theme=dark&hide_border=false&border_color=00ff41&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=7ee787" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaninduImanjith&layout=compact&theme=dark&hide_border=false&border_color=00ff41&bg_color=000000&title_color=00ff41&text_color=7ee787" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaninduImanjith&theme=2077" alt="Profile Summary Matrix" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaninduImanjith&theme=2077" alt="GitHub Statistics" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaninduImanjith&theme=dark&hide_border=false&border=00ff41&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=8b949e" alt="Streak Stats" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaninduImanjith&theme=minimal&hide_border=false&border_color=00ff41&bg_color=000000&color=00ff41&line=00ff41&point=7ee787" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ChaninduImanjith&theme=dark&hide_border=false&border=00ff41&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=8b949e" alt="Streak Stats" />
 </div>
 
 <br>

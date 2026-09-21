@@ -1,0 +1,73 @@
+<svg width="100%" height="44" viewBox="0 0 900 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="badgeGlow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark Frame -->
+  <rect x="2" y="2" width="896" height="40" rx="3" fill="#000000" stroke="#00ff41" stroke-width="1.2" stroke-opacity="0.6"/>
+
+  <!-- Corner Tech Brackets -->
+  <path d="M 6 12 L 6 6 L 12 6" stroke="#00ff41" stroke-width="1.5" fill="none"/>
+  <path d="M 894 12 L 894 6 L 888 6" stroke="#00ff41" stroke-width="1.5" fill="none"/>
+  <path d="M 6 32 L 6 38 L 12 38" stroke="#00ff41" stroke-width="1.5" fill="none"/>
+  <path d="M 894 32 L 894 38 L 888 38" stroke="#00ff41" stroke-width="1.5" fill="none"/>
+
+  <!-- Scanning laser sweep across the bar -->
+  <rect y="2" width="60" height="40" fill="#00ff41" opacity="0.08">
+    <animate attributeName="x" values="2;838;2" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Items -->
+  <g font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#00ff41">
+    <!-- Item 1: Status -->
+    <g transform="translate(24, 26)">
+      <circle cx="0" cy="-4" r="3.5" fill="#00ff41">
+        <animate attributeName="r" values="2.5;4;2.5" dur="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="10" y="0" font-weight="700">STATUS: ROOT_SESSION_ACTIVE</text>
+    </g>
+
+    <!-- Divider 1 -->
+    <line x1="230" y1="10" x2="230" y2="34" stroke="#00ff41" stroke-width="0.8" opacity="0.3"/>
+
+    <!-- Item 2: Protocol -->
+    <g transform="translate(248, 26)">
+      <text x="0" y="0" opacity="0.85">KERNEL: <tspan font-weight="700" fill="#7ee787">LINUX-6.12</tspan></text>
+    </g>
+
+    <!-- Divider 2 -->
+    <line x1="410" y1="10" x2="410" y2="34" stroke="#00ff41" stroke-width="0.8" opacity="0.3"/>
+
+    <!-- Item 3: Deployments -->
+    <g transform="translate(428, 26)">
+      <text x="0" y="0" opacity="0.85">CLUSTER: <tspan font-weight="700" fill="#7ee787">K8S // ARGO_CD</tspan></text>
+    </g>
+
+    <!-- Divider 3 -->
+    <line x1="610" y1="10" x2="610" y2="34" stroke="#00ff41" stroke-width="0.8" opacity="0.3"/>
+
+    <!-- Item 4: Contributions -->
+    <g transform="translate(628, 26)">
+      <text x="0" y="0" opacity="0.85">MERGED_PRS: <tspan font-weight="700" fill="#00ff41" filter="url(#badgeGlow)">16 UPSTREAM</tspan></text>
+    </g>
+
+    <!-- Divider 4 -->
+    <line x1="775" y1="10" x2="775" y2="34" stroke="#00ff41" stroke-width="0.8" opacity="0.3"/>
+
+    <!-- Item 5: Live ping -->
+    <g transform="translate(795, 26)">
+      <text x="0" y="0" opacity="0.85">PING: <tspan font-weight="700">0.42ms</tspan></text>
+      <!-- Blinking cursor -->
+      <rect x="80" y="-10" width="6" height="12" fill="#00ff41">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
