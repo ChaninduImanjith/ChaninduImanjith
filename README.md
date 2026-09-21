@@ -27,11 +27,23 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=ChaninduImanjith&style=flat-square&color=00ff41&label=TELEMETRY_LOGS&labelColor=000000" alt="Telemetry Logs" />
 
+<br><br>
+
+<p align="center">
+  <a href="#about-system"><img src="https://img.shields.io/badge/TERMINAL-ABOUT-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="About"/></a>
+  <a href="#system-toolset"><img src="https://img.shields.io/badge/STACK-TOOLSET-000000?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Toolset"/></a>
+  <a href="#wso2-contributions"><img src="https://img.shields.io/badge/UPSTREAM-WSO2__16_PRS-000000?style=for-the-badge&logo=git&logoColor=00FF41" alt="WSO2"/></a>
+  <a href="#technical-publications"><img src="https://img.shields.io/badge/DISPATCH-ARTICLES-000000?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Articles"/></a>
+  <a href="#telemetry-matrix"><img src="https://img.shields.io/badge/METRICS-TELEMETRY-000000?style=for-the-badge&logo=grafana&logoColor=00FF41" alt="Metrics"/></a>
+</p>
+
 </div>
 
 <p align="center">
   <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
 </p>
+
+<a name="about-system"></a>
 
 ### <code>root@chanindu:~# cat /etc/motd</code>
 
@@ -41,7 +53,7 @@
 │ HOST       : fedora-workstation (x86_64)                                      │
 │ UPTIME     : 100% (High Availability)                                         │
 │ ROLE       : Software Engineering Undergraduate & DevOps Enthusiast           │
-│ LOCATION   : Colombo, Sri Lanka                                              │
+│ LOCATION   : Colombo, Sri Lanka                                               │
 │ STATUS     : Ready for Deployment // Access: ROOT                             │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -49,7 +61,7 @@
 ### <code>chanindu@fedora:~$ cat /home/chanindu/.profile_bio</code>
 
 ```bash
-Software Engineering undergraduate and DevOps enthusiast based in Kalutara,
+Software Engineering undergraduate and DevOps enthusiast based in Colombo,
 Sri Lanka, with a strong foundation in cloud-native architectures, distributed
 systems, and CI/CD pipelines. Focused on building scalable infrastructure and
 automating deployments, with a deep interest in integrating machine learning
@@ -57,6 +69,26 @@ models into production environments through efficient MLOps practices.
 ```
 
 ### <code>chanindu@fedora:~$ neofetch --system-specs</code>
+
+```bash
+          /:-------------:\          chanindu@fedora-workstation
+       :-------------------::        ---------------------------
+     :-----------/shhOHbmp---:\      OS: Fedora Linux x86_64
+   /-----------omMMMNNNMMD  ---:     HOST: ThinkStation / DevRig
+  :-----------sMMMMNMNMP.    ---:    KERNEL: 6.12.9-x86_64 (Hardened)
+ :-----------:MMMdP-------    ---\   UPTIME: 100% (High Availability)
+,------------:MMMd--------    ---:   SHELL: /bin/bash (v5.2)
+:------------:MMMd-------    .---:   DEGREE: BSc (Hons) Software Engineering (Uni of Kelaniya)
+:----    oNMMMMMMMMMNho     .----:   PROFESSIONAL: CMJD Professional (IJSE)
+:--     .+shhhMMMmhhy++   .------/   ROLES: AI Platform · DevOps · Cloud · Software Engineer
+:-    -------:MMMd--------------:    UPSTREAM: 16 Merged PRs @ WSO2 Ecosystem
+:-   --------/MMMd-------------;     EXPLORING: Adv K8s, Terraform, AWS Solutions Arch, MLOps
+:-    ------/hMMMy------------:      LOCATION: Colombo, Sri Lanka
+:-- :dMNdhohmMMMo-------------;      
+ :---:ohdmmddys:-------------:       
+  :-------------------------/        
+   \-----------------------/         
+```
 
 | `SYSTEM_KEY` | `HARDWARE / ACADEMIC REGISTRY` |
 |:---|:---|
@@ -68,6 +100,8 @@ models into production environments through efficient MLOps practices.
 <p align="center">
   <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
 </p>
+
+<a name="system-toolset"></a>
 
 ### <code>chanindu@fedora:~$ ./inspect_toolset.sh --active-modules</code>
 
@@ -103,7 +137,15 @@ models into production environments through efficient MLOps practices.
   <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
 </p>
 
+<a name="wso2-contributions"></a>
+
 ### <code>root@fedora:~# journalctl -u oss-contributions.service --no-pager</code>
+
+<div align="center">
+  <img src="./assets/wso2-showcase.svg" alt="WSO2 Enterprise Contributor Showcase" width="100%" />
+</div>
+
+<br>
 
 ```bash
 [TARGET_ECOSYSTEMS] : Enterprise-grade cloud-native platforms | Identity management | Model serving
@@ -137,7 +179,14 @@ models into production environments through efficient MLOps practices.
   <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
 </p>
 
+<a name="technical-publications"></a>
+
 ### <code>chanindu@fedora:~$ curl -s https://medium.com/feed/@chanindu.imanjith | parse-feed</code>
+
+```bash
+[FEED_SOURCE] : https://medium.com/@chanindu.imanjith
+[PROTOCOL]    : RSS 2.0 // AUTO-SYNCHRONIZED BY GITHUB ACTIONS
+```
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Linux is the Bedrock of DevOps: Core Kernel &amp; Shell Principles Every Engineer Must Master](https://medium.com/@chanindu.imanjith/why-linux-is-the-bedrock-of-devops-core-kernel-shell-principles-every-engineer-must-master-eac15daa02cd?source=rss-c34493618601------2)
@@ -150,6 +199,8 @@ models into production environments through efficient MLOps practices.
 <p align="center">
   <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
 </p>
+
+<a name="telemetry-matrix"></a>
 
 ### <code>chanindu@fedora:~$ gh telemetry --render-matrix</code>
 
@@ -171,5 +222,31 @@ models into production environments through efficient MLOps practices.
 ### <code>[ CONTRIBUTION_MATRIX // SNAKE_PROTOCOL ]</code>
 
 <img src="https://raw.githubusercontent.com/ChaninduImanjith/ChaninduImanjith/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<p align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="Cyber Divider"/>
+</p>
+
+### <code>root@chanindu:~# ./establish_uplink.sh --mode=interactive</code>
+
+<div align="center">
+
+<a href="mailto:chanindu.imanjith@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-chanindu.imanjith%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/chanindu-imanjith-72814431b">
+  <img src="https://img.shields.io/badge/LINKEDIN-chanindu--imanjith-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+<a href="https://chanindu-portfolio-v2.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-v2__live-000000?style=for-the-badge&logo=firefox&logoColor=00FF41&labelColor=0d1117" alt="Portfolio"/>
+</a>
+<a href="https://medium.com/@chanindu.imanjith">
+  <img src="https://img.shields.io/badge/MEDIUM-articles-000000?style=for-the-badge&logo=medium&logoColor=00FF41&labelColor=0d1117" alt="Medium"/>
+</a>
+<a href="https://github.com/ChaninduImanjith">
+  <img src="https://img.shields.io/badge/GITHUB-ChaninduImanjith-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="GitHub"/>
+</a>
 
 </div>
