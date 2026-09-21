@@ -4,100 +4,124 @@
 
 <br><br>
 
+[![STATUS](https://img.shields.io/badge/SYS_STATUS-ONLINE-000000?style=flat-square&logo=gnubash&logoColor=00FF41&labelColor=0d1117)](#)
 <a href="mailto:chanindu.imanjith@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/EMAIL-chanindu.imanjith%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d1117" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/chanindu-imanjith-72814431b">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-chanindu--imanjith-000000?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ChaninduImanjith">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GITHUB-ChaninduImanjith-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=0d1117" alt="GitHub"/>
 </a>
 <a href="https://chanindu-portfolio-v2.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-v2__live-000000?style=flat-square&logo=firefox&logoColor=00FF41&labelColor=0d1117" alt="Portfolio"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ChaninduImanjith&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ChaninduImanjith&style=flat-square&color=00ff41&label=TELEMETRY_LOGS&labelColor=000000" alt="Telemetry Logs" />
 
 </div>
 
 <br>
 
-## `// 01. About`
+### <code>root@chanindu:~# cat /etc/motd</code>
 
-Software Engineering undergraduate and DevOps enthusiast based in Kalutara, Sri Lanka, with a strong foundation in cloud-native architectures, distributed systems, and CI/CD pipelines. Focused on building scalable infrastructure and automating deployments, with a deep interest in integrating machine learning models into production environments through efficient **MLOps** practices.
+```bash
+┌──[ SYSTEM TELEMETRY & BIOMETRICS ]────────────────────────────────────────────┐
+│ USER       : chanindu                                                         │
+│ HOST       : fedora-workstation (x86_64)                                      │
+│ UPTIME     : 100% (High Availability)                                         │
+│ ROLE       : Software Engineering Undergraduate & DevOps Enthusiast           │
+│ LOCATION   : Kalutara, Sri Lanka                                              │
+│ STATUS     : Ready for Deployment // Access: ROOT                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
 
-| | |
-|---|---|
-| 🎓 **Undergraduate** | BSc (Hons) Software Engineering — University of Kelaniya |
-| 💼 **Professional Studies** | CMJD Professional — IJSE (Institute of Software Engineering) |
-| 🐧 **Daily Driver** | Fedora Linux (terminal power user) |
-| 🌱 **Currently Exploring** | Advanced Kubernetes, Terraform, AWS Solutions Architecture, MLOps infrastructure |
+### <code>chanindu@fedora:~$ cat /home/chanindu/.profile_bio</code>
+
+```bash
+Software Engineering undergraduate and DevOps enthusiast based in Kalutara,
+Sri Lanka, with a strong foundation in cloud-native architectures, distributed
+systems, and CI/CD pipelines. Focused on building scalable infrastructure and
+automating deployments, with a deep interest in integrating machine learning
+models into production environments through efficient MLOps practices.
+```
+
+### <code>chanindu@fedora:~$ neofetch --system-specs</code>
+
+| `SYSTEM_KEY` | `HARDWARE / ACADEMIC REGISTRY` |
+|:---|:---|
+| `🎓 Undergraduate` | `BSc (Hons) Software Engineering — University of Kelaniya` |
+| `💼 Professional Studies` | `CMJD Professional — IJSE (Institute of Software Engineering)` |
+| `🐧 Daily Driver` | `Fedora Linux (terminal power user)` |
+| `🌱 Currently Exploring` | `Advanced Kubernetes, Terraform, AWS Solutions Architecture, MLOps infrastructure` |
 
 <br>
 
-## `// 02. Tech Stack`
+### <code>chanindu@fedora:~$ ./inspect_toolset.sh --active-modules</code>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,azure,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,kubernetes,terraform,ansible,jenkins,aws,azure,python,java,spring,react,vite,mysql,postgres,prometheus,grafana,vscode&perline=11&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br>
 
-| Domain | Technologies |
-|---|---|
-| **Cloud & IaC** | AWS (EC2, S3, VPC), Terraform, Docker, Kubernetes |
-| **Automation & CI/CD** | Jenkins, GitHub Actions, Argo CD, Ansible |
-| **Development** | Java (OOP, SOLID, Design Patterns), Python, React 19, Spring Boot |
-| **MLOps & Monitoring** | Model Deployment, Prometheus, Grafana |
+| `SUBSYSTEM` | `DEPLOYED PACKAGES & FRAMEWORKS` |
+|:---|:---|
+| `☁️ Cloud & IaC` | `AWS (EC2, S3, VPC)` · `Terraform` · `Docker` · `Kubernetes` |
+| `⚡ Automation & CI/CD` | `Jenkins` · `GitHub Actions` · `Argo CD` · `Ansible` |
+| `💻 Development` | `Java (OOP, SOLID, Design Patterns)` · `Python` · `React 19` · `Spring Boot` |
+| `📊 MLOps & Monitoring` | `Model Deployment` · `Prometheus` · `Grafana` |
 
 <details>
-<summary><b>Additional toolset</b></summary>
-<br>
+<summary><code><b>[+] cat /etc/sysconfig/additional-toolset.conf (Click to expand)</b></code></summary>
 
-- **OS:** Fedora Linux (terminal power user)
-- **Container Orchestration:** Argo CD, Kubernetes
-- **Design Patterns:** SOLID Principles, Factory Pattern, Dependency Inversion
-- **Cloud Infrastructure:** AWS (EC2, S3, VPC Management)
+```bash
+# ==============================================================================
+# ADDITIONAL SYSTEM TOOLSET & DESIGN ARCHITECTURES
+# ==============================================================================
+[OS]                     : Fedora Linux (terminal power user)
+[CONTAINER_ORCHESTRATION]: Argo CD, Kubernetes
+[DESIGN_PATTERNS]        : SOLID Principles, Factory Pattern, Dependency Inversion
+[CLOUD_INFRASTRUCTURE]   : AWS (EC2, S3, VPC Management)
+```
 
 </details>
 
 <br>
 
-## `// 03. Open Source Contributions`
+### <code>root@fedora:~# journalctl -u oss-contributions.service --no-pager</code>
 
-Actively engaged with enterprise-grade, cloud-native open-source ecosystems — integration platforms, identity management, and model-serving infrastructure.
+```bash
+[TARGET_ECOSYSTEMS] : Enterprise-grade cloud-native platforms | Identity management | Model serving
+[COMMUNITY_METRICS] : Collaborating across 30+ repositories · 75% Commits · 25% Pull Requests
+```
 
-**[WSO2](https://github.com/wso2)** — 14 merged pull requests to `wso2/docs-mi`, 1 to `wso2/docs-is`
+- <code>[UPSTREAM]</code> **[WSO2](https://github.com/wso2)** — `14 merged pull requests to wso2/docs-mi, 1 to wso2/docs-is`
+  - <code>├── [PR #2444]</code> `Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters` ➔ **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**
+  - <code>├── [PR #2349]</code> `Ported RabbitMQ URL placeholder and blocking-mode message builder/formatter documentation across 3 product versions` ➔ **[4.4.0](https://github.com/wso2/docs-mi/pull/2349)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2350)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2351)**
+  - <code>├── [PR #2439]</code> `Ported network-related JDBC Message Store tuning tips across 5 product versions` ➔ **[main](https://github.com/wso2/docs-mi/pull/2439)** · **[4.6.0](https://github.com/wso2/docs-mi/pull/2437)** · **[4.4.0](https://github.com/wso2/docs-mi/pull/2440)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2441)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2442)**
+  - <code>├── [PR #2387]</code> `Fixed a broken WSO2 Integration Studio download link across 4 product versions` ➔ **[4.4.0](https://github.com/wso2/docs-mi/pull/2387)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2388)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2389)**
+  - <code>├── [PR #2336]</code> `Ported advanced AWS SQS custom endpoint and S3 path-style addressing (forcePathStyle) configuration references to main` ➔ **[wso2/docs-mi#2336](https://github.com/wso2/docs-mi/pull/2336)**
+  - <code>├── [PR #2335]</code> `Updated AWS SQS connector custom endpoint documentation for the 4.5.0 release` ➔ **[wso2/docs-mi#2335](https://github.com/wso2/docs-mi/pull/2335)**
+  - <code>└── [PR #6202]</code> `Contributed a merged pull request to the WSO2 Identity Server platform documentation` ➔ **[wso2/docs-is#6202](https://github.com/wso2/docs-is/pull/6202)**
 
-- Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters — **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**
-- Ported RabbitMQ URL placeholder and blocking-mode message builder/formatter documentation across 3 product versions — **[4.4.0](https://github.com/wso2/docs-mi/pull/2349)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2350)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2351)**
-- Ported network-related JDBC Message Store tuning tips across 5 product versions — **[main](https://github.com/wso2/docs-mi/pull/2439)** · **[4.6.0](https://github.com/wso2/docs-mi/pull/2437)** · **[4.4.0](https://github.com/wso2/docs-mi/pull/2440)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2441)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2442)**
-- Fixed a broken WSO2 Integration Studio download link across 4 product versions — **[4.4.0](https://github.com/wso2/docs-mi/pull/2387)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2388)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2389)**
-- Ported advanced AWS SQS custom endpoint and S3 path-style addressing (`forcePathStyle`) configuration references to main — **[wso2/docs-mi#2336](https://github.com/wso2/docs-mi/pull/2336)**
-- Updated AWS SQS connector custom endpoint documentation for the 4.5.0 release — **[wso2/docs-mi#2335](https://github.com/wso2/docs-mi/pull/2335)**
-- Contributed a merged pull request to the WSO2 Identity Server platform documentation — **[wso2/docs-is#6202](https://github.com/wso2/docs-is/pull/6202)**
+- <code>[UPSTREAM]</code> **[OpenChoreo](https://github.com/openchoreo)** — `contributing to openchoreo/backstage-plugins and related deployment tools`
+  - <code>└── [PR #749]</code> `Merged bug fix resolving an incorrect "Failed" status shown in the Deploy UI during normal namespace provisioning` ➔ **[openchoreo/backstage-plugins#749](https://github.com/openchoreo/backstage-plugins/pull/749)**
 
-**[OpenChoreo](https://github.com/openchoreo)** — contributing to `openchoreo/backstage-plugins` and related deployment tools
+- <code>[EXPLORING]</code> **[KServe](https://github.com/kserve)** — `exploring and engaging with highly scalable machine learning model-serving infrastructure`
 
-- Merged bug fix resolving an incorrect "Failed" status shown in the Deploy UI during normal namespace provisioning — **[openchoreo/backstage-plugins#749](https://github.com/openchoreo/backstage-plugins/pull/749)**
-
-**[KServe](https://github.com/kserve)** — exploring and engaging with highly scalable machine learning model-serving infrastructure
-
-**Community Activity** — collaborating across 30+ repositories · 75% Commits · 25% Pull Requests
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-0d1117?style=flat-square&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Merged%20PRs-16-0d1117?style=flat-square&logo=github&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=0d1117" alt="Open Source Contributor" />
+<img src="https://img.shields.io/badge/MERGED_PRS-16-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Merged PRs" />
 
 </div>
 
 <br>
 
-## `// 04. Latest Technical Writings`
+### <code>chanindu@fedora:~$ curl -s https://medium.com/feed/@chanindu.imanjith | parse-feed</code>
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Linux is the Bedrock of DevOps: Core Kernel &amp; Shell Principles Every Engineer Must Master](https://medium.com/@chanindu.imanjith/why-linux-is-the-bedrock-of-devops-core-kernel-shell-principles-every-engineer-must-master-eac15daa02cd?source=rss-c34493618601------2)
@@ -109,26 +133,26 @@ Actively engaged with enterprise-grade, cloud-native open-source ecosystems — 
 
 <br>
 
-## `// 05. GitHub Analytics`
+### <code>chanindu@fedora:~$ gh telemetry --render-matrix</code>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChaninduImanjith&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=A855F7&text_color=8b949e" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaninduImanjith&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=8b949e" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChaninduImanjith&show_icons=true&theme=dark&hide_border=false&border_color=00ff41&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=7ee787" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaninduImanjith&layout=compact&theme=dark&hide_border=false&border_color=00ff41&bg_color=000000&title_color=00ff41&text_color=7ee787" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaninduImanjith&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaninduImanjith&theme=dark&hide_border=false&border=00ff41&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=8b949e" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaninduImanjith&theme=minimal&hide_border=true&bg_color=0d1117&color=38BDF8&line=A855F7&point=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaninduImanjith&theme=minimal&hide_border=false&border_color=00ff41&bg_color=000000&color=00ff41&line=00ff41&point=7ee787" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
 
-### Contribution Grid
+### <code>[ CONTRIBUTION_MATRIX // SNAKE_PROTOCOL ]</code>
 
 <img src="https://raw.githubusercontent.com/ChaninduImanjith/ChaninduImanjith/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
