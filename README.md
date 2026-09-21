@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ChaninduImanjith">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=36&lines=chanindu%40fedora%3A~%24+AI+Platform+Engineer;chanindu%40fedora%3A~%24+DevOps+Engineer;chanindu%40fedora%3A~%24+Cloud+Engineer;chanindu%40fedora%3A~%24+Software+Engineer;chanindu%40fedora%3A~%24+16_Merged_PRs+--target%3DWSO2" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=36&lines=chanindu%40fedora%3A~%24+AI+Platform+Engineer;chanindu%40fedora%3A~%24+DevOps+Engineer;chanindu%40fedora%3A~%24+Cloud+Engineer;chanindu%40fedora%3A~%24+Software+Engineer;" alt="Terminal Typing Animation" />
   </a>
 </p>
 
