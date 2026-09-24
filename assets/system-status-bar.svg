@@ -55,7 +55,7 @@
 
     <!-- Item 4: Contributions -->
     <g transform="translate(628, 26)">
-      <text x="0" y="0" opacity="0.85">MERGED_PRS: <tspan font-weight="700" fill="#00ff41" filter="url(#badgeGlow)">16 @ WSO2</tspan></text>
+      <text x="0" y="0" opacity="0.85">MERGED_PRS: <tspan font-weight="700" fill="#00ff41" filter="url(#badgeGlow)">18 @ WSO2</tspan></text>
     </g>
 
     <!-- Divider 4 -->
