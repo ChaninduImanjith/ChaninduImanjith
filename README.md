@@ -49,11 +49,7 @@
 ### <code>chanindu@fedora:~$ cat /home/chanindu/.profile_bio</code>
 
 ```bash
-Software Engineering undergraduate and AI Platform Engineering and DevOps enthusiast based in Colombo,
-Sri Lanka, with a strong foundation in cloud-native architectures, distributed
-systems, and CI/CD pipelines. Focused on building scalable infrastructure and
-automating deployments, with a deep interest in integrating machine learning
-models into production environments through efficient MLOps practices.
+Software Engineering undergraduate and AI Platform Engineering and DevOps enthusiast based in Colombo, Sri Lanka, with a strong foundation in cloud-native architectures, distributed systems, and CI/CD pipelines. Focused on building scalable infrastructure and automating deployments, with a deep interest in integrating machine learning models into production environments through efficient MLOps practices.
 ```
 
 ### <code>chanindu@fedora:~$ neofetch --system-specs</code>
