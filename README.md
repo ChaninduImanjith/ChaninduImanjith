@@ -37,10 +37,10 @@
 
 ```bash
 ┌──[ SYSTEM TELEMETRY & BIOMETRICS ]────────────────────────────────────────────┐
-│ USER       : chanindu                                                         │
+│ USER       : Chanindu Imanjith                                                │
 │ HOST       : fedora-workstation (x86_64)                                      │
 │ UPTIME     : 100% (High Availability)                                         │
-│ ROLE       : Software Engineering Undergraduate & DevOps Enthusiast           │
+│ ROLE       : Software Engineering Undergraduate & AI Platform Enthusiast      │
 │ LOCATION   : Colombo, Sri Lanka                                               │
 │ STATUS     : Ready for Deployment // Access: ROOT                             │
 └───────────────────────────────────────────────────────────────────────────────┘
