@@ -79,7 +79,7 @@ models into production environments through efficient MLOps practices.
 
 | `SUBSYSTEM` | `DEPLOYED PACKAGES & FRAMEWORKS` |
 |:---|:---|
-| `☁️ Cloud & IaC` | `AWS (EC2, S3, VPC)` · `Terraform` · `Docker` · `Kubernetes` |
+| `☁️ Cloud & IaC` | `AWS (EC2, S3, VPC)` · `GCP` · `Terraform` · `Docker` · `Kubernetes` |
 | `⚡ Automation & CI/CD` | `Jenkins` · `GitHub Actions` · `Argo CD` · `Ansible` |
 | `💻 Development` | `Java (OOP, SOLID, Design Patterns)` · `Python` · `React 19` · `Spring Boot` |
 | `📊 MLOps & Monitoring` | `Model Deployment` · `Prometheus` · `Grafana` |
