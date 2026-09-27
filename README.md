@@ -112,7 +112,8 @@ Software Engineering undergraduate and AI Platform Engineering and DevOps enthus
 [COMMUNITY_METRICS] : Collaborating across 30+ repositories · 75% Commits · 25% Pull Requests
 ```
 
-- <code>[UPSTREAM]</code> **[WSO2](https://github.com/wso2)** — `16 merged pull requests to wso2/docs-mi, 1 to wso2/docs-is`
+- <code>[UPSTREAM]</code> **[WSO2](https://github.com/wso2)** — `21 merged pull requests to wso2/docs-mi, 1 to wso2/docs-is`
+  - <code>├── [PR #2482]</code> `Ported Azure storage connector Jackson dependency update across 5 product versions` ➔ **[main](https://github.com/wso2/docs-mi/pull/2482)** · **[4.5.0](https://github.com/wso2/docs-mi/pull/2481)** · **[4.4.0](https://github.com/wso2/docs-mi/pull/2480)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2479)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2478)**
   - <code>├── [PR #2473]</code> `Ported MCP server documentation to the WSO2 Integrator: MI 4.6.0 documentation` ➔ **[wso2/docs-mi#2473](https://github.com/wso2/docs-mi/pull/2473)**
   - <code>├── [PR #2443]</code> `Fixed a broken sample WSDL download link in the proxy service introduction documentation` ➔ **[wso2/docs-mi#2443](https://github.com/wso2/docs-mi/pull/2443)**
   - <code>├── [PR #2444]</code> `Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters` ➔ **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**
@@ -133,7 +134,7 @@ Software Engineering undergraduate and AI Platform Engineering and DevOps enthus
 <div align="center">
 
 <img src="https://img.shields.io/badge/WSO2_CONTRIBUTOR-ACTIVE-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=0d1117" alt="WSO2 Contributor" />
-<img src="https://img.shields.io/badge/MERGED_PRS-18_AT_WSO2-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Merged PRs at WSO2" />
+<img src="https://img.shields.io/badge/MERGED_PRS-23_AT_WSO2-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Merged PRs at WSO2" />
 
 </div>
 
