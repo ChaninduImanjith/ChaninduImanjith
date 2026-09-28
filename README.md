@@ -90,7 +90,7 @@ Software Engineering undergraduate and AI Platform Engineering and DevOps enthus
 [OS]                     : Fedora Linux (terminal power user)
 [CONTAINER_ORCHESTRATION]: Argo CD, Kubernetes
 [DESIGN_PATTERNS]        : SOLID Principles, Factory Pattern, Dependency Inversion
-[CLOUD_INFRASTRUCTURE]   : AWS (EC2, S3, VPC Management)
+[CLOUD_INFRASTRUCTURE]   : AWS (EC2, S3, VPC Management), GCP
 ```
 
 </details>
