@@ -112,14 +112,16 @@ Software Engineering undergraduate and AI Platform Engineering and DevOps enthus
 [COMMUNITY_METRICS] : Collaborating across 30+ repositories · 75% Commits · 25% Pull Requests
 ```
 
-- <code>[UPSTREAM]</code> **[WSO2](https://github.com/wso2)** — `21 merged pull requests to wso2/docs-mi, 1 to wso2/docs-is`
-  - <code>├── [PR #2482]</code> `Ported Azure storage connector Jackson dependency update across 5 product versions` ➔ **[main](https://github.com/wso2/docs-mi/pull/2482)** · **[4.5.0](https://github.com/wso2/docs-mi/pull/2481)** · **[4.4.0](https://github.com/wso2/docs-mi/pull/2480)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2479)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2478)**
+- <code>[UPSTREAM]</code> **[WSO2](https://github.com/wso2)** — `23 merged pull requests to wso2/docs-mi, 1 to wso2/docs-is`
+  - <code>├── [PR #2533]</code> `Documented HTTP Connector non-blocking behaviour, Call Mediator blocking-call recommendations, and the DELETE-with-body workaround` ➔ **[wso2/docs-mi#2533](https://github.com/wso2/docs-mi/pull/2533)**
+  - <code>├── [PR #2502]</code> `Ported Access Log V2 documentation to main, removing version-specific references` ➔ **[wso2/docs-mi#2502](https://github.com/wso2/docs-mi/pull/2502)**
+  - <code>├── [PR #2478, #2479, #2480, #2481, #2482]</code> `Ported Azure storage connector Jackson dependency update across 5 product versions` ➔ **[main #2482](https://github.com/wso2/docs-mi/pull/2482)** · **[4.5.0 #2481](https://github.com/wso2/docs-mi/pull/2481)** · **[4.4.0 #2480](https://github.com/wso2/docs-mi/pull/2480)** · **[4.3.0 #2479](https://github.com/wso2/docs-mi/pull/2479)** · **[4.2.0 #2478](https://github.com/wso2/docs-mi/pull/2478)**
   - <code>├── [PR #2473]</code> `Ported MCP server documentation to the WSO2 Integrator: MI 4.6.0 documentation` ➔ **[wso2/docs-mi#2473](https://github.com/wso2/docs-mi/pull/2473)**
   - <code>├── [PR #2443]</code> `Fixed a broken sample WSDL download link in the proxy service introduction documentation` ➔ **[wso2/docs-mi#2443](https://github.com/wso2/docs-mi/pull/2443)**
   - <code>├── [PR #2444]</code> `Added Kubernetes deployment guidance for shared registry mounting across active-active WSO2 Integrator: MI clusters` ➔ **[wso2/docs-mi#2444](https://github.com/wso2/docs-mi/pull/2444)**
-  - <code>├── [PR #2349]</code> `Ported RabbitMQ URL placeholder and blocking-mode message builder/formatter documentation across 3 product versions` ➔ **[4.4.0](https://github.com/wso2/docs-mi/pull/2349)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2350)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2351)**
-  - <code>├── [PR #2439]</code> `Ported network-related JDBC Message Store tuning tips across 5 product versions` ➔ **[main](https://github.com/wso2/docs-mi/pull/2439)** · **[4.6.0](https://github.com/wso2/docs-mi/pull/2437)** · **[4.4.0](https://github.com/wso2/docs-mi/pull/2440)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2441)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2442)**
-  - <code>├── [PR #2387]</code> `Fixed a broken WSO2 Integration Studio download link across 4 product versions` ➔ **[4.4.0](https://github.com/wso2/docs-mi/pull/2387)** · **[4.3.0](https://github.com/wso2/docs-mi/pull/2388)** · **[4.2.0](https://github.com/wso2/docs-mi/pull/2389)**
+  - <code>├── [PR #2349, #2350, #2351]</code> `Ported RabbitMQ URL placeholder and blocking-mode message builder/formatter documentation across 3 product versions` ➔ **[4.4.0 #2349](https://github.com/wso2/docs-mi/pull/2349)** · **[4.3.0 #2350](https://github.com/wso2/docs-mi/pull/2350)** · **[4.2.0 #2351](https://github.com/wso2/docs-mi/pull/2351)**
+  - <code>├── [PR #2437, #2439, #2440, #2441, #2442]</code> `Ported network-related JDBC Message Store tuning tips across 5 product versions` ➔ **[main #2439](https://github.com/wso2/docs-mi/pull/2439)** · **[4.6.0 #2437](https://github.com/wso2/docs-mi/pull/2437)** · **[4.4.0 #2440](https://github.com/wso2/docs-mi/pull/2440)** · **[4.3.0 #2441](https://github.com/wso2/docs-mi/pull/2441)** · **[4.2.0 #2442](https://github.com/wso2/docs-mi/pull/2442)**
+  - <code>├── [PR #2387, #2388, #2389]</code> `Fixed a broken WSO2 Integration Studio download link across 3 product versions` ➔ **[4.4.0 #2387](https://github.com/wso2/docs-mi/pull/2387)** · **[4.3.0 #2388](https://github.com/wso2/docs-mi/pull/2388)** · **[4.2.0 #2389](https://github.com/wso2/docs-mi/pull/2389)**
   - <code>├── [PR #2336]</code> `Ported advanced AWS SQS custom endpoint and S3 path-style addressing (forcePathStyle) configuration references to main` ➔ **[wso2/docs-mi#2336](https://github.com/wso2/docs-mi/pull/2336)**
   - <code>├── [PR #2335]</code> `Updated AWS SQS connector custom endpoint documentation for the 4.5.0 release` ➔ **[wso2/docs-mi#2335](https://github.com/wso2/docs-mi/pull/2335)**
   - <code>└── [PR #6202]</code> `Contributed a merged pull request to the WSO2 Identity Server platform documentation` ➔ **[wso2/docs-is#6202](https://github.com/wso2/docs-is/pull/6202)**
@@ -134,7 +136,7 @@ Software Engineering undergraduate and AI Platform Engineering and DevOps enthus
 <div align="center">
 
 <img src="https://img.shields.io/badge/WSO2_CONTRIBUTOR-ACTIVE-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=0d1117" alt="WSO2 Contributor" />
-<img src="https://img.shields.io/badge/MERGED_PRS-23_AT_WSO2-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Merged PRs at WSO2" />
+<img src="https://img.shields.io/badge/MERGED_PRS-25_AT_WSO2-000000?style=flat-square&logo=git&logoColor=00FF41&labelColor=0d1117" alt="Merged PRs at WSO2" />
 
 </div>
 
